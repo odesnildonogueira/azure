@@ -1,2 +1,2 @@
-# AWS
-Repositório com exemplos para laboratórios da Amazon Web Service
+# MICROSOFT AZURE
+Repositório com exemplos para laboratórios MICROSOFT AZURE
